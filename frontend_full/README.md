@@ -1,6 +1,13 @@
-# Frontend - User Directory App
-React app with:
-- Fetch API
+# User Directory (React)
+
+Features:
+- Fetch API users
 - Search, Sort, Filter
 - Pagination
-- Responsive UI
+- Responsive + loading spinner
+
+API: https://reqres.in/api/users
+
+## Run Locally
+npm install  
+npm start
